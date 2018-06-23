@@ -1,2 +1,2 @@
 # hello-world
-Learning Git!
+Learning to use GitHub properly - step-by-step, piano a piano :-)
